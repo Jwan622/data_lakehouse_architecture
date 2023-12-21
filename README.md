@@ -8,6 +8,8 @@ We will ingest data from Kafka to s3 (our data lake). From s3 (our raw data laye
 
 ## Diagram
 
+This is a real world implementation of a data lakehouse that I've seen in the wild.
+
 ![design](images/design.png)
 
 ## Explanation
